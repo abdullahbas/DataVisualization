@@ -1,1 +1,1 @@
-# DataVisualization
+﻿Hi guys,Today I will talk about some of the visualization techniques. But first let me start with the tradition.*********** #**_Ulu çınarlar fırtınalı diyarlarda yetişir.-Cemil Meriç  -"Great plane trees grow in stormy lands"_**### Let's start with the line plots. These are quite useful when trying show  effects of something or changes among time or other stream.![alt text (https://github.com/abdullahbas/DataVisualization/blob/main/images/areaplot.png)
